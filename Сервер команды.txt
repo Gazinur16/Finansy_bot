@@ -1,7 +1,0 @@
-SCREEN:
-Ctrl- a + d - закрыть окно не завершая сесси 
-
-
-
-
-sudo -H pip3 install --upgrade pip - обновление пип
